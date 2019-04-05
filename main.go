@@ -59,7 +59,7 @@ func main() {
 	}
 
 	var ORDER_ID = "234234234"
-	var MOBILE_NO = "9586311403"
+	var MOBILE_NO = "0000000000"
 	var EMAIL = "xyz@gmail.com"
 	var TXN_AMOUNT = "45.00"
 	var VERIFIED_BY = "MOBILE"
